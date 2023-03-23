@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/listFragment"
+        android:title=".Listado"
+        android:icon="@drawable/ic_nav" />
+    <item android:id="@+id/compatibilityFragment"
+        android:title=".Compatibilidad"
+        android:icon="@drawable/ic_compatibility" />
+    <item android:id="@+id/informationFragment"
+        android:title=".Informacion"
+        android:icon="@drawable/ic_information" />
+</menu>
